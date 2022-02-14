@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://www.iesperanca.org.br/contato.html</loc>
+</url>
+<url>
+<loc>http://www.iesperanca.org.br/doacoes.html</loc>
+</url>
+<url>
 <loc>http://www.iesperanca.org.br/</loc>
+</url>
+<url>
+<loc>http://www.iesperanca.org.br/institucional.html</loc>
+</url>
+<url>
+<loc>http://www.iesperanca.org.br/projetos.html</loc>
+</url>
+<url>
+<loc>http://www.iesperanca.org.br/transparencia.html</loc>
 </url>
 </urlset>
