@@ -1,0 +1,17 @@
+.banner {
+    width: 100%;
+}
+
+.folha-menu {
+	height: 48px;
+	width: 48px;
+}
+
+.bg-primary {
+    color: #456c43;
+}
+
+.bg-center {
+    background-color: #ffffff;
+    color: #ffffff;
+}
